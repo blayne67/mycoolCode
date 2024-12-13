@@ -1,0 +1,14 @@
+/Users/brcampbell/Desktop/CreateYourOwnAdventure/ProgramMango/bin/Debug/net8.0/ProgramMango
+/Users/brcampbell/Desktop/CreateYourOwnAdventure/ProgramMango/bin/Debug/net8.0/ProgramMango.deps.json
+/Users/brcampbell/Desktop/CreateYourOwnAdventure/ProgramMango/bin/Debug/net8.0/ProgramMango.runtimeconfig.json
+/Users/brcampbell/Desktop/CreateYourOwnAdventure/ProgramMango/bin/Debug/net8.0/ProgramMango.dll
+/Users/brcampbell/Desktop/CreateYourOwnAdventure/ProgramMango/bin/Debug/net8.0/ProgramMango.pdb
+/Users/brcampbell/Desktop/CreateYourOwnAdventure/ProgramMango/obj/Debug/net8.0/ProgramMango.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brcampbell/Desktop/CreateYourOwnAdventure/ProgramMango/obj/Debug/net8.0/ProgramMango.AssemblyInfoInputs.cache
+/Users/brcampbell/Desktop/CreateYourOwnAdventure/ProgramMango/obj/Debug/net8.0/ProgramMango.AssemblyInfo.cs
+/Users/brcampbell/Desktop/CreateYourOwnAdventure/ProgramMango/obj/Debug/net8.0/ProgramMango.csproj.CoreCompileInputs.cache
+/Users/brcampbell/Desktop/CreateYourOwnAdventure/ProgramMango/obj/Debug/net8.0/ProgramMango.dll
+/Users/brcampbell/Desktop/CreateYourOwnAdventure/ProgramMango/obj/Debug/net8.0/refint/ProgramMango.dll
+/Users/brcampbell/Desktop/CreateYourOwnAdventure/ProgramMango/obj/Debug/net8.0/ProgramMango.pdb
+/Users/brcampbell/Desktop/CreateYourOwnAdventure/ProgramMango/obj/Debug/net8.0/ProgramMango.genruntimeconfig.cache
+/Users/brcampbell/Desktop/CreateYourOwnAdventure/ProgramMango/obj/Debug/net8.0/ref/ProgramMango.dll
